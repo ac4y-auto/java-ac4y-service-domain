@@ -6,7 +6,7 @@
 
     <groupId>ac4y</groupId>
     <artifactId>ac4y-service-domain</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.20260206.1</version>
     <packaging>jar</packaging>
 
     <name>Ac4y Service Domain</name>
